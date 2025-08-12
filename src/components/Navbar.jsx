@@ -12,7 +12,6 @@ export default function Navbar({ currentPath }) {
 
   const [path, setPath] = useState(currentPath || "/");
   useEffect(() => {
-    // Update on client so window.location is correct
     if (typeof window !== "undefined") setPath(window.location.pathname);
   }, []);
 
