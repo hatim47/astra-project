@@ -5,8 +5,8 @@ export default function Navbar({ currentPath }) {
 
   const navLinks = [
     { label: 'Home', href: '/astra-project/' },
-  { label: 'Pricing', href: '/astra-project/price' },
-    { label: 'Blogs', href: '/astra-project/blog' },
+  { label: 'Pricing', href: 'https://hatim47.github.io/astra-project/price/' },
+    { label: 'Blogs', href: 'https://hatim47.github.io/astra-project/blog/' },
 
   ];
 
