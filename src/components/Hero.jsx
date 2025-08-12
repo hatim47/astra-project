@@ -24,10 +24,10 @@ const springY = useSpring(y, { stiffness: 30, damping: 20, mass: 1.5 });
     y.set(0);
   };
  const circles = [
-    { src:"/astra-project/Group 90.png", x: "0%" },
-    { src:"/astra-project/Group 91.png", x: "33%" },
-    { src:"/astra-project/Group 92.png", x: "66%" },
-    { src:"/astra-project/Group 93.png", x: "100%" },
+    { src:"/Group 90.png", x: "0%" },
+    { src:"/Group 91.png", x: "33%" },
+    { src:"/Group 92.png", x: "66%" },
+    { src:"/Group 93.png", x: "100%" },
   ];
   const [activeIndex, setActiveIndex] = useState(0);
 
@@ -119,17 +119,17 @@ const springY = useSpring(y, { stiffness: 30, damping: 20, mass: 1.5 });
     >
       {/* Desktop stacked */}
       <img
-        src="/astra-project/Rectangle 5.png"
+        src="/Rectangle 5.png"
         className="absolute w-6/12 md:bottom-18 md:-left-35 md:z-30 
                    -bottom-1 left-3 z-30" // mobile different
       />
       <img
-        src="/astra-project/Rectangle 4.png"
+        src="/Rectangle 4.png"
         className="absolute w-2/12 md:top-20 md:-right-24 md:z-20 
                    -top-8 right-3 z-20" // moved down on mobile
       />
       <img
-        src="/astra-project/Rectangle 3.png"
+        src="/Rectangle 3.png"
         className="absolute w-full md:top-4 md:left-4 md:z-10 
                    top-0 left-0 z-10" // even lower on mobile
       />
@@ -160,7 +160,7 @@ const springY = useSpring(y, { stiffness: 30, damping: 20, mass: 1.5 });
        <div className="relative w-[230px]  h-[150px] md:w-[500px] md:h-[250px] mx-auto">
       {/* Static line */}
       <img
-        src="/astra-project/Vector2.png"
+        src="/Vector2.png"
         alt="line"
         className="absolute top-1/2 left-0 w-full -translate-y-1/2"
       />
@@ -307,7 +307,7 @@ hover:before:blur-xs hover:before:opacity-90 transition-all">            Optiona
             <h2 className="text-xl  md:w-full md:text-3xl text-center md:text-start font-medium text-white mb-5 md:mb-7">Save Developer Time with Automation</h2>
             <p className="text-white w-11/12 text-center md:text-start font-light text-sm  max-w-sm md:text-xl mb-6">Unicrawl eliminates hours of manual scraping logic. No more writing custom CAPTCHA<br className='md:hidden block' /> solvers  or proxy managers —we handle it all in the background.</p>
           </div>
-          <img src='/astra-project/Group81.png' alt="UNICRAWL main" className="w-10/12  md:w-6/12" />
+          <img src='/Group81.png' alt="UNICRAWL main" className="w-10/12  md:w-6/12" />
 
         </div>
         <div className="bg-white/10 relative flex w-10/12 md:w-full  md:max-w-3xl bg-white/20 border border-white px-4 py-6 md:px-16 md:py-10 rounded-xl flex-col z-2" >

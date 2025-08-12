@@ -4,9 +4,9 @@ export default function Navbar({ currentPath }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { label: 'Home', href: '/astra-project/' },
-  { label: 'Pricing', href: 'https://hatim47.github.io/astra-project/price/' },
-    { label: 'Blogs', href: 'https://hatim47.github.io/astra-project/blog/' },
+    { label: 'Home', href: '/' },
+  { label: 'Pricing', href: 'https://unicrawl.vercel.app/price/' },
+    { label: 'Blogs', href: 'https://unicrawl.vercel.app/blog/' },
 
   ];
 
