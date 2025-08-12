@@ -5,8 +5,9 @@ export default function Navbar({ currentPath }) {
 
   const navLinks = [
     { label: 'Home', href: '/' },
-    { label: 'Pricing', href: 'https://unicrawl.wbsoftech.com/price/' },
-    { label: 'Blogs', href: 'https://unicrawl.wbsoftech.com/blog/' },
+  { label: 'Pricing', href: '/price' },
+    { label: 'Blogs', href: '/blog' },
+
   ];
 
   const [path, setPath] = useState(currentPath || "/");
