@@ -30,7 +30,7 @@ export default function Footer({ currentPath }) {
 <div ref={imgRef2} className="relative flex justify-center w-full z-2">
   
         <Slide in={showImg2} direction="up" timeout={800}>  
-           <img src="/Logo.png"    className="w-full select-none pointer-events-none" />  
+           <img src="/astra-project/Logo.png"    className="w-full select-none pointer-events-none" />  
             </Slide>
         
   </div>
@@ -54,7 +54,7 @@ export default function Footer({ currentPath }) {
         </Slide> </div>         
     </div>
      
-                 <img src="/Group4.png" className="absolute w-8/12 md:w-4/12 select-none pointer-events-none z-0 -bottom-34 md:-bottom-74 md:-right-20 "/>  
+                 <img src="/astra-project/Group4.png" className="absolute w-8/12 md:w-4/12 select-none pointer-events-none z-0 -bottom-34 md:-bottom-74 md:-right-20 "/>  
         
         {/* Buttons */}
         <div className="relative flex flex-col sm:flex-row items-center gap-4 md:me-35">
