@@ -24,10 +24,10 @@ const springY = useSpring(y, { stiffness: 30, damping: 20, mass: 1.5 });
     y.set(0);
   };
  const circles = [
-    { src: "/Group 90.png", x: "0%" },
-    { src: "/Group 91.png", x: "33%" },
-    { src: "/Group 92.png", x: "66%" },
-    { src: "/Group 93.png", x: "100%" },
+    { src:"/astra-project/Group 90.png", x: "0%" },
+    { src:"/astra-project/Group 91.png", x: "33%" },
+    { src:"/astra-project/Group 92.png", x: "66%" },
+    { src:"/astra-project/Group 93.png", x: "100%" },
   ];
   const [activeIndex, setActiveIndex] = useState(0);
 
@@ -307,7 +307,7 @@ hover:before:blur-xs hover:before:opacity-90 transition-all">            Optiona
             <h2 className="text-xl  md:w-full md:text-3xl text-center md:text-start font-medium text-white mb-5 md:mb-7">Save Developer Time with Automation</h2>
             <p className="text-white w-11/12 text-center md:text-start font-light text-sm  max-w-sm md:text-xl mb-6">Unicrawl eliminates hours of manual scraping logic. No more writing custom CAPTCHA<br className='md:hidden block' /> solvers  or proxy managers —we handle it all in the background.</p>
           </div>
-          <img src='/Group81.png' alt="UNICRAWL main" className="w-10/12  md:w-6/12" />
+          <img src='/astra-project/Group81.png' alt="UNICRAWL main" className="w-10/12  md:w-6/12" />
 
         </div>
         <div className="bg-white/10 relative flex w-10/12 md:w-full  md:max-w-3xl bg-white/20 border border-white px-4 py-6 md:px-16 md:py-10 rounded-xl flex-col z-2" >
