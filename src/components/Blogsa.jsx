@@ -30,7 +30,7 @@ export default function Hero() {
     <div className="w-full max-w-xs md:max-w-7xl flex flex-wrap justify-center gap-x-16 gap-y-18 md:p-6 z-10">
      
         <div className="bg-white rounded-xl flex flex-col items-start  max-w-xs shadow-md shadow-[#74CEFF]/20  p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4"> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4"> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -40,7 +40,7 @@ export default function Hero() {
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div>
 <div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -49,7 +49,7 @@ export default function Hero() {
           </p>
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div><div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -58,7 +58,7 @@ export default function Hero() {
           </p>
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div><div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -67,7 +67,7 @@ export default function Hero() {
           </p>
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div><div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -76,7 +76,7 @@ export default function Hero() {
           </p>
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div><div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -85,7 +85,7 @@ export default function Hero() {
           </p>
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div><div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -94,7 +94,7 @@ export default function Hero() {
           </p>
           <a href="#" className="text-sm   text-gradient mt-10 inline-block underline">Read More</a>
         </div><div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md shadow-[#74CEFF]/20 p-6 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>
@@ -104,7 +104,7 @@ export default function Hero() {
           <a href="#" className="text-sm text-gradient mt-10 inline-block underline ">Read More</a>
         </div>
       <div  className="bg-white rounded-xl flex flex-col items-start max-w-xs shadow-md p-6 shadow-[#74CEFF]/20 shadow-lg transition">
-          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/rectangle1770.png" alt="" /></div>
+          <div className="bg-gray-200  rounded-md mb-4 "> <img src="/astra-project/rectangle1770.png" alt="" /></div>
           <h3 className="text-lg text-start font-medium text-gray-900">
             Lorem ipsum dolor sit <span className="text-gradient font-semibold">amet adipiscing elit.</span>
           </h3>

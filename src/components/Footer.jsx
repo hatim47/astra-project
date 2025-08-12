@@ -7,9 +7,9 @@ export default function Footer({ currentPath }) {
     const { ref: imgRef1, inView: showImg1 } = useInView({ triggerOnce: true, threshold: 0.2 });
         const { ref: imgRef2, inView: showImg2 } = useInView({ triggerOnce: true, threshold: 0.2 });
   const navLinkss = [
-    { label: 'Home', href: '/' },
-    { label: 'Pricing', href: '/price' },
-    { label: 'Blogs', href: '/blog' },
+    { label: 'Home', href: '/astra-project/' },
+    { label: 'Pricing', href: '/astra-project/price' },
+    { label: 'Blogs', href: '/astra-project/blog' },
     { label: 'Sign Up', href: '#' },
   ];
 

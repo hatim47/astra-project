@@ -4,9 +4,9 @@ export default function Navbar({ currentPath }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { label: 'Home', href: '/' },
-  { label: 'Pricing', href: '/price' },
-    { label: 'Blogs', href: '/blog' },
+    { label: 'Home', href: '/astra-project/' },
+  { label: 'Pricing', href: '/astra-project/price' },
+    { label: 'Blogs', href: '/astra-project/blog' },
 
   ];
 

@@ -119,17 +119,17 @@ const springY = useSpring(y, { stiffness: 30, damping: 20, mass: 1.5 });
     >
       {/* Desktop stacked */}
       <img
-        src="/Rectangle 5.png"
+        src="/astra-project/Rectangle 5.png"
         className="absolute w-6/12 md:bottom-18 md:-left-35 md:z-30 
                    -bottom-1 left-3 z-30" // mobile different
       />
       <img
-        src="/Rectangle 4.png"
+        src="/astra-project/Rectangle 4.png"
         className="absolute w-2/12 md:top-20 md:-right-24 md:z-20 
                    -top-8 right-3 z-20" // moved down on mobile
       />
       <img
-        src="/Rectangle 3.png"
+        src="/astra-project/Rectangle 3.png"
         className="absolute w-full md:top-4 md:left-4 md:z-10 
                    top-0 left-0 z-10" // even lower on mobile
       />
@@ -160,7 +160,7 @@ const springY = useSpring(y, { stiffness: 30, damping: 20, mass: 1.5 });
        <div className="relative w-[230px]  h-[150px] md:w-[500px] md:h-[250px] mx-auto">
       {/* Static line */}
       <img
-        src="/Vector2.png"
+        src="/astra-project/Vector2.png"
         alt="line"
         className="absolute top-1/2 left-0 w-full -translate-y-1/2"
       />
