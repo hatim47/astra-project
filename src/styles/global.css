@@ -1,0 +1,36 @@
+@import "tailwindcss";
+html, :host {
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+.text-gradient {
+  background: linear-gradient(90deg, #02A6FF, #3957DF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text; /* Optional for Firefox */
+  color: transparent;
+}
+.primary-gradient {
+  background: linear-gradient(90deg, #02A6FF, #3957DF);
+  color: white; /* Optional: text color on top */
+}
+.team-gradient{
+  background: radial-gradient(77.33% 45.02% at 50% 50.56%, #3c54df 12.76%, #02A6FF 51.44%, rgba(255, 255, 255, 0.00) 100%);
+  background-position:center;
+  background-size: cover;
+}
+.MuiPaper-root{ 
+border-radius: 15px !important;  
+box-shadow:0 7px 8px 0 #14141408 !important;
+}
+.css-rizt0-MuiTypography-root{
+  font-size: 1.25rem !important;
+}
+.MuiAccordion-root::before {
+  opacity: 0 !important;
+}
+.MuiPaper-root-MuiAccordion-root{
+  border: none !important;
+}
